@@ -1,2 +1,2 @@
 # map_of_taiwan
-Taiwan map, is used in front end application.
+Offline Taiwan map is used in front end application without internet environment.
